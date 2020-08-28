@@ -2,4 +2,4 @@
 # Hex Editor
 Console Hex Editor that allows you to view/dump any file.
 ## How to use?
-Clone/download this repository. If you want to move this program somewhere else, put the **.exe** and **dumps** folder in one folder.
+Clone/download this repository. Run the **HexEditor.exe** in the **Executable** folder. If you move this program, make sure the folder which contains the main hex editor executable contains **dumps** folder. It will be automated in the future.
